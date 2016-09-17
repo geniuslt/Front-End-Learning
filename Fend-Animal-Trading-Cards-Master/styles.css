@@ -1,0 +1,39 @@
+/* add your CSS here */
+#interesting_fact {
+	font-style: italic;
+}
+li span {
+	font-weight: bold;
+}
+ul {
+	list-style: none;
+}
+#detail, #container {
+	border: 1px solid gray;
+}
+h3 {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+body {
+	width: 322px;
+}
+#detail {
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 5px;
+	margin-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+img {
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+#container {
+	box-shadow: 10px 5px 5px gray;
+}
